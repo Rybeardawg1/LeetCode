@@ -2,7 +2,7 @@ import java.util.Stack;
 
 public class ValidParenthesis {
     public static void main(String[] args) {
-        System.out.println(valid(""));
+        System.out.println(valid("({}[)]"));
     }
 
     public static boolean valid(String s) {
