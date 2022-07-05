@@ -1,3 +1,5 @@
 # LeetCode
  
-leet code attempts 👁️
+https://leetcode.com/Rybeardawg/
+
+some of my leet codes 👁️
